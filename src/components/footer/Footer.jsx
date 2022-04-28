@@ -39,9 +39,9 @@ const Footer = () => {
         <div className="footer__content__copyright">
           <div className="footer__content">
             <a href="https://christianlazoporfolio.netlify.app/">
-              Christian Lazo ||
+              Christian Lazo
             </a>
-            &copy; All Rights Reserved 2022
+            <span> || &copy; All Rights Reserved 2022</span>
           </div>
         </div>
       </div>
