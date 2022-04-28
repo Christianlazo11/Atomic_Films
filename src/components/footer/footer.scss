@@ -36,5 +36,13 @@
         margin-top: 1rem;
       }
     }
+
+    &__copyright {
+      text-align: center;
+      position: relative;
+      padding: 2rem 0;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
   }
 }

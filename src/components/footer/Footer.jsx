@@ -28,12 +28,20 @@ const Footer = () => {
             <Link to="/">Live</Link>
             <Link to="/">FAQ</Link>
             <Link to="/">Premium</Link>
-            <Link to="/">Pravacy policy</Link>
+            <Link to="/">Privacy policy</Link>
           </div>
           <div className="footer__content__menu">
             <Link to="/">You must watch</Link>
             <Link to="/">Recent release</Link>
             <Link to="/">Top IMDB</Link>
+          </div>
+        </div>
+        <div className="footer__content__copyright">
+          <div className="footer__content">
+            <a href="https://christianlazoporfolio.netlify.app/">
+              Christian Lazo ||
+            </a>
+            &copy; All Rights Reserved 2022
           </div>
         </div>
       </div>
